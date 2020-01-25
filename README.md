@@ -1,6 +1,6 @@
 # Presentations
 ## Goal
-As recommended by a communitymember it might be a great idea to hold small presentations frequently.
+As recommended by a community member it might be a great idea to hold small presentations frequently.
 This might draw more experienced developers into our guild.
 Based on [this idea](https://www.fluentcpp.com/dailycpp/).
 This is not limited to just experienced people, anyone can get the chance to hold a presentation in front of interested people.
@@ -17,4 +17,4 @@ You can also take this as a chance to learn new stuff just to present it.
 
 ## If you want to hold a presentation
 - Message a moderator with a rough idea on what you want to talk about.
-- Moderators will try to find a fitting timeslot for you and will announce it beforehand.
+- Moderators will try to find a fitting time slot for you and will announce it beforehand.
